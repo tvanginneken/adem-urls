@@ -1,1 +1,1 @@
-# please delete this repository
+# Contains the list of URLs that ADEM clients need to access
