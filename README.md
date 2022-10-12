@@ -1,2 +1,1 @@
-# EDL list with blocked URLs
-
+# please delete this repository
